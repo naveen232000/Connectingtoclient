@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "FPMlEftzurFdQG7u3cho2ThRlt+li5vquQjr7tKzRRE=",
+  "Source": "WebAPIHost",
+  "BasePath": "_content/WebAPIHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIHost\\wwwroot",
+      "Source": "WebAPIHost",
+      "ContentRoot": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\",
+      "BasePath": "_content/WebAPIHost",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\index.html",
+      "SourceId": "WebAPIHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\",
+      "BasePath": "_content/WebAPIHost",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\OurScript.js",
+      "SourceId": "WebAPIHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\",
+      "BasePath": "_content/WebAPIHost",
+      "RelativePath": "OurScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OurScript.js"
+    },
+    {
+      "Identity": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\OurStyle.css",
+      "SourceId": "WebAPIHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Mphasis-B2\\Phase-2\\Day-18\\WebAPIHost\\WebAPIHost\\wwwroot\\",
+      "BasePath": "_content/WebAPIHost",
+      "RelativePath": "OurStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OurStyle.css"
+    }
+  ]
+}
